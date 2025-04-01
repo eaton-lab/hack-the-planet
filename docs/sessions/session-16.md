@@ -12,6 +12,7 @@ day: Th
 
 ## Icebreaker question
 * If you could bring back any fashion trend, what would it be?
+    * [Hypercolor!](https://www.google.com/search?sca_esv=5ab42de3d1d78b1a&q=hypercolor&udm=2&fbs=ABzOT_CWdhQLP1FcmU5B0fn3xuWpA-dk4wpBWOGsoR7DG5zJBsxayPSIAqObp_AgjkUGqel3rTRMIJGV_ECIUB00mupujJbyw82c7vlYBaFJu3BmNAQzAFr6obCTLutWM17qnmiOU-zUTKn7eXIlsD8HYbVMoPCUoQ-8w2eBI-HPhrVEu8E-X-pRJi-IDF2DFIJu34aAXq7SSNs64lEYJnUMf4GCLzulQQ&sa=X&ved=2ahUKEwjd7PCHnIeMAxVGGlkFHcsXAOAQtKgLegQIKhAB&biw=1791&bih=802&dpr=1); Really big skirts like from the 1800s; MC Hammer pants (parachute pants); Farm fresh wool for real clothes; Silly bands particularly the [sparkly phoenix](https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjkJ8W1JpM9asfPa2AYVklcHIKYWWOh-KNE7OB1BUNJYqdg2BXjreCRqf4sDsP9-ORdpwJ2B4LNwaVIe3NluHaKVgcQ7JxoUZolQrz15YSo6X-YadUZCsv_26ojZCwkOuil_uBZXUCYdXxm/s1600/IMG_1185.JPG); Everything Y2K; Wheelies shoes; Zubaz
 
 ## :material-book-variant: Learning objectives
 In this session we will review and critique each others mini-projects.
