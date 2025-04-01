@@ -11,7 +11,16 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* What is the grossest or creepiest creature you can think of? (This is a 2 part question).
+What is the grossest or creepiest creature you can think of? (This is a 2 part question).
+
+- Ugly spider - Be it
+- Plantation of banana plants (field of slime) - Eat it
+- Parasites in general - Be it
+- House centipedes - Be it
+- Slugs - Be it
+- Cockroach - Be it
+- Cockroach - Be it
+- Nosferatu - Be it
 
 ## :material-book-variant: Learning objectives
 In this session we will start hacking on our projects. Instructors will rotate
