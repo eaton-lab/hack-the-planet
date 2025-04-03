@@ -1,6 +1,6 @@
 ---
 title: Session 20
-topic: High-performance computing
+topic: Interactive data science apps
 date: 2025-02-18
 day: Th
 ---
