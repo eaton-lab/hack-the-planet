@@ -11,7 +11,7 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* What is your earliest childhood memory?
+* What do you do/get as a nice treat for yourself?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about building interactive web-based
