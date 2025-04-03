@@ -27,7 +27,7 @@ be more familiar with the following topics:
 - [Building a simple web interface with Streamlit](../../tutorials/20.0-easy-webapps)
 
 ## :material-list-box-outline: Assignments
-- [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
+- Read the [Introduction to time series analysis from the Python Time Series Handbook](https://filippomb.github.io/python-time-series-handbook/notebooks/01/introduction_to_time_series.html)
 
 ---------------------
 
