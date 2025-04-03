@@ -11,25 +11,23 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* What is your earliest childhood memory?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
+In this session we will learn about building interactive web-based
+dashboards for python data science programs. By the end of this session you will 
 be more familiar with the following topics:
 
-- XXX
-- XXX
-
-
-## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+- The Streamlit python web app library
+- Creating interactive widgets
+- Connecting streamlit to your python code
+- Deploying interactive dashboards to the web
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- [Building a simple web interface with Streamlit](../../tutorials/20.0-easy-webapps)
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- **TODO** Tutorials 
+- - [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 
 ---------------------
 
