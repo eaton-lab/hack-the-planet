@@ -13,6 +13,8 @@ day: Th
 ## Icebreaker question
 * What do you do/get as a nice treat for yourself?
 
+* Browsing a nice bookstore; York peppermint pattie; Playing video games on switch; egg everything bagel with scallion cream cheese; Re-watching Law and Order SVU; going to a dessert shop for cakes; chilling with my friends; finding water to swim in; aperol spritz
+
 ## :material-book-variant: Learning objectives
 In this session we will learn about building interactive web-based
 dashboards for python data science programs. By the end of this session you will 

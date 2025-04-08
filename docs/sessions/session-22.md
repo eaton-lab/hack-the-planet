@@ -1,8 +1,8 @@
 ---
 title: Session 22
-topic: Project hacking session
-date: 2025-04-08
-day: Tu
+topic: Timeseries data
+date: 2025-04-10
+day: Th
 ---
 
 
@@ -11,7 +11,7 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* Who is your favorite cartoon character and why?
+* **TODO**
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about.... By the end of this session you will 
