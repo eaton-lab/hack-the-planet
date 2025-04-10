@@ -17,11 +17,11 @@ day: Th
 In this session we will learn about time series analysis in python. By the 
 end of this session you will be more familiar with the following topics:
 
-- Using time series data to **infer** underlying processes, and to 
-**predict** future states
 - Components of time series: **Trend**, **Seasonality**, and **Residuals** 
+- How time series data can be used to **infer** underlying processes, and to 
+**predict** future states
 - Additive and multiplicative time series decomposition
-
+- Time series forecasting with ARIMA models
 
 ## :material-list-box-outline: Review and Discussion
 N/A
