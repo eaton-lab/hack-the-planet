@@ -11,25 +11,26 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* **TODO**
+* What is a good icebreaker question?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
-be more familiar with the following topics:
+In this session we will learn about time series analysis in python. By the 
+end of this session you will be more familiar with the following topics:
 
-- XXX
-- XXX
+- Using time series data to **infer** underlying processes, and to 
+**predict** future states
+- Components of time series: **Trend**, **Seasonality**, and **Residuals** 
+- Additive and multiplicative time series decomposition
 
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+N/A
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- [Time series analysis in python](../../tutorials/22.0-timeseries)
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- **TODO** Tutorials 
+- Homework is to work on your projects.
 
 ---------------------
 

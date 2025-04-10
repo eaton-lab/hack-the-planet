@@ -1,6 +1,6 @@
 ---
-title: Session 22
-topic: Timeseries data
+title: Session 21
+topic: Continue hacking on projects
 date: 2025-04-08
 day: Tu
 ---
@@ -10,7 +10,16 @@ day: Tu
 </figure>
 
 ## Icebreaker question
-* Who is your favorite cartoon character and why?
+
+- Who is your favorite cartoon character and why?
+    - Bugs Bunny, because he's clever & salty
+    - Louise Belcher from Bob's Burgers because she's chaotic & fun
+    - Jiji from Kiki's Delivery Service because she's adorable
+    - Totoro from Totoro because of cuteness & forest spirit & large and fluffy
+    - Jerry from Tom & Jerry because he's a foody who is always up to something
+    - Tom from Tom & Jerry because he's smart
+    - Natsume from Natsume's Book of Friends because he's warm
+    - Stitch because it's really a french bulldog
 
 ## :material-book-variant: Learning objectives
 In this session we will continue hacking on our projects. Instructors 
@@ -24,7 +33,9 @@ their bioinformatics/data science projects.
 - Individually hacking on our projects
 
 ## :material-list-box-outline: Assignments
-- Read the [Introduction to time series analysis from the Python Time Series Handbook](https://filippomb.github.io/python-time-series-handbook/notebooks/01/introduction_to_time_series.html) 
+- Read the [Introduction to time series analysis from the Python Time Series Handbook](https://filippomb.github.io/python-time-series-handbook/notebooks/01/introduction_to_time_series.html)
+- The icebreaker on Thursday will be "What is a good icebreaker question?",
+so be prepared.
 
 ---------------------
 
