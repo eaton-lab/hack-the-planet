@@ -12,6 +12,7 @@ day: Th
 
 ## Icebreaker question
 * What is a good icebreaker question?
+     - What is a good icebreaker question? **(Initiate [infinite loop](https://en.wikipedia.org/wiki/Infinite_loop))**
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about time series analysis in python. By the 
