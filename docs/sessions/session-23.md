@@ -1,35 +1,31 @@
 ---
-title: Session 9
-topic: Python scripting - main, argparse, logging
-date: 2025-02-18
+title: Session 23
+topic: Continue hacking on projects
+date: 2025-04-015
 day: Tu
 ---
-
 
 <figure markdown="span">
   ![hackers-1](../assets/images/hackers-panel.png)
 </figure>
 
 ## Icebreaker question
-* **TODO**
+
+- What is your favorite [emoji](https://getemoji.com/) and why?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about.... By the end of this session you will 
-be more familiar with the following topics:
-
-- XXX
-- XXX
-
+In this session we will continue hacking on our projects. Instructors 
+will rotate around the room guiding people on continuing development of
+their bioinformatics/data science projects.
 
 ## :material-list-box-outline: Review and Discussion
-- Review homework assignments
+- NA
 
 ## :material-human-male-board-poll: In class exercises
-- **TODO** Link to [Lecture XX slides](../../lectures/XX/) 
+- Individually hacking on our projects
 
 ## :material-list-box-outline: Assignments
-- **TODO** Readings
-- **TODO** Tutorials 
+- [Introduction to Parallel Computing Tutorial](https://hpc.llnl.gov/documentation/tutorials/introduction-parallel-computing-tutorial)
 
 ---------------------
 
