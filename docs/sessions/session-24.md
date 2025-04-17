@@ -11,9 +11,7 @@ day: Th
 </figure>
 
 ## Icebreaker question
-* Characterize your problem solving style on a scale of 1-5 with
-one being "'Done enough' is good enough" and 5 being
-"I will take my time for perfection".
+* What is your favorite vegetable?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about working with High-Performance Computing
