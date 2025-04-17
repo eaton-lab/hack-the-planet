@@ -12,7 +12,7 @@ day: Th
 
 ## Icebreaker question
 * Characterize your problem solving style on a scale of 1-5 with
-one being "Quick and dirty and 'done enough' is good enough" and 5 being
+one being "'Done enough' is good enough" and 5 being
 "I will take my time for perfection".
 
 ## :material-book-variant: Learning objectives
