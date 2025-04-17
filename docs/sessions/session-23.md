@@ -12,6 +12,7 @@ day: Tu
 ## Icebreaker question
 
 - What is your favorite [emoji](https://getemoji.com/) and why?
+    - ✨, Phylo-stickers, 😘, 👀, 🐙, 😇, 🥹, 🫠, 💎, 🚀
 
 ## :material-book-variant: Learning objectives
 In this session we will continue hacking on our projects. Instructors 
