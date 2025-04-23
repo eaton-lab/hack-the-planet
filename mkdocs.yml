@@ -101,7 +101,7 @@ nav:
     - Session 23 - (4/15): sessions/session-23.md
     - Session 24 - (4/17): sessions/session-24.md
     - Session 25 - (4/22): sessions/session-25.md
-    #- Session 26 - (4/24): sessions/session-26.md
+    - Session 26 - (4/24): sessions/session-26.md
 
   - Tutorials:
     - Session 2 - (1/23):
@@ -162,8 +162,8 @@ nav:
         - 22.0 -- Python time series analysis: tutorials/22.0-timeseries.md
     - Session 24 -- (4/17):
         - 24.0 -- Intro to HPC Systems: tutorials/24.0-intro-hpc.md    
-    #- Session 25 -- (4/24):
-    #   - 26.0 -- Intro to Geospatial Analysis: tutorials/26.0-intro-gis.md
+    - Session 26 -- (4/24):
+       - 26.0 -- Intro to Geospatial Analysis: tutorials/26.0-intro-gis.md
 
   - Resources:
     - project proposals: pages/proposals
