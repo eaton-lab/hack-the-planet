@@ -12,6 +12,7 @@ day: Th
 
 ## Icebreaker question
 * What is your favorite vegetable?
+    * The lowly beet; Cabbage; Bell pepper (red); Broccoli; Cucumber; Tomato; also brocolli; bok choy; brussels sprouts
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about working with High-Performance Computing

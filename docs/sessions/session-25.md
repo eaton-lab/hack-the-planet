@@ -12,6 +12,7 @@ day: Tu
 ## Icebreaker question
 
 - What kind of music do you like?
+    - psychedelic music, lo-fi, classic, quiet indie, afrobeat, jazz, bluegrass, r&b
 
 ## :material-book-variant: Learning objectives
 In this session we will continue hacking on our projects. Instructors 
