@@ -8,8 +8,8 @@ image: /assets/images/hackers-1.jpg
 ### Project Presentations
 
 Project presentations will take place in class on 5/1 and 5/6. 
-Each presentation should be approximately 7 minutes in length, followed
-by 2-3 minutes of questions. You will need to share your screen during 
+Each presentation should be approximately 15 minutes in length, followed
+by 5 minutes of questions. You will need to share your screen during 
 the presentation, which can include showing and demonstrating your 
 program using a terminal, notebook, browser, and/or other windows as
 necessary. Your presentation should include the following details:
@@ -72,6 +72,16 @@ that will make planning or developing your next project easier?
 
 ## Schedule
 
-Monday 5/1
+Thursday 5/1
 
-Wednesday 5/6
+* Selina
+* James
+* Emily
+* Yuki
+
+Tuesday 5/6
+
+* Riya
+* Kayla
+* Jamie
+* Yue

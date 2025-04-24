@@ -11,7 +11,8 @@ day: Th
 
 ## Icebreaker question
 
-- Do you practice any superstitions or if not are there any that you think are especially interesting?
+- Do you practice any superstitions (everyday magic) or if not are there any that you think are especially interesting?
+    - Touching wood, triscadecaphobia, fortune telling, spilling salt, not stepping on cracks, tapping pipette tip 3 times, wouldn't walk under a ladder
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about geospatial data analysis with python. By 
