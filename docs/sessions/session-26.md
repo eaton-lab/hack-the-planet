@@ -25,7 +25,8 @@ the end of this session you will be more familiar with the following topics:
 - [Intro to Geospatial Analysis Tutorial](../../tutorials/26.0-intro-gis) 
 
 ## :material-list-box-outline: Assignments
-- Assignment is to keep working on your project
+- Assignment is to keep working on your project, and to prepare for the 
+[project presentation](../../pages/presentations)
 
 ## :material-human-male-board-poll: Further readings and geospatial resources
 - Read the Datacarpentries [Introduction to Geospatial Concepts](https://datacarpentry.github.io/organization-geospatial/)
