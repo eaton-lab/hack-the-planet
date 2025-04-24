@@ -14,8 +14,8 @@ day: Th
 - Do you have any lucky numbers and if so can you share them with us?
 
 ## :material-book-variant: Learning objectives
-In this session we will learn about geospatial data analysis with python. By the end of 
-this session you will be more familiar with the following topics:
+In this session we will learn about geospatial data analysis with python. By 
+the end of this session you will be more familiar with the following topics:
 
 - Raster and Vector data formats
 - Coordinate reference systems
