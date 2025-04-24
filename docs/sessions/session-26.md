@@ -11,7 +11,7 @@ day: Th
 
 ## Icebreaker question
 
-- Do you have any lucky numbers and if so can you share them with us?
+- Do you practice any superstitions or if not are there any that you think are especially interesting?
 
 ## :material-book-variant: Learning objectives
 In this session we will learn about geospatial data analysis with python. By 
