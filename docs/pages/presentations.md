@@ -75,13 +75,13 @@ that will make planning or developing your next project easier?
 Thursday 5/1
 
 * Selina
-* James
+* Riya
 * Emily
 * Yuki
 
 Tuesday 5/6
 
-* Riya
+* James
 * Kayla
 * Jamie
 * Yue
