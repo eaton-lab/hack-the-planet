@@ -11,7 +11,7 @@ day: Tu
 
 ## Icebreaker question
 
-- What sport do you think is the most boring to watch?
+- What sport do you think is the most boring to watch? Or, What's your secret talent?
 
 ## :material-book-variant: Learning objectives
 In this session we will continue hacking on our projects. Instructors 
