@@ -4,7 +4,7 @@ image: /assets/images/hackers-5.jpg
 
 
 # Syllabus
-- **Title:** Programming and Data Science for Biology (EEEB G4050)
+- **Title:** Programming and Data Science for Biology (EEEB GU4050)
 - **Term:** Spring 2025
 - **Department:** Ecology, Evolution, and Environmental Biology (E3B)
 - **Instructors:** 
