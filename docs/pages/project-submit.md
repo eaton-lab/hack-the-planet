@@ -20,9 +20,8 @@ be graded on the following criteria:
 - Commit history/effort (40%)
 - Python Code (15%)
 - Minimal working example (15%)
-- GitHub repository organization (10%)
-- README.md install and demo instructions or other docs (10%)
-- Paired programming commits or comments (10%)
+- GitHub repository organization (15%)
+- README.md install and demo instructions or other docs (15%)
 
 
 ### Commit history
@@ -69,12 +68,3 @@ example. It should be nicely formatted using Markdown. Spend some time making
 the formatting look nice. This should be a freebie, since you were required
 to make most of this during your proposal.
 
-
-### Paired programming commits or comments
-I will look for commits and comments you've made to other students code. 
-For your first paired-programming exercises I asked for you to try to contribute to 
-other projects even if you do not have a ton to contribute. But I didn't 
-make this a requirement for later paired-programming meetings, so it is OK
-if you only discussed the projects in your in person meetings. If you have 
-not made any commits to anyone elses repo then you should do so before the 
-project submission date. This is essentially a form of participation points.
